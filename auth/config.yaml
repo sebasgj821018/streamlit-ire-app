@@ -2,7 +2,7 @@ credentials:
   usernames:
     sebastian:
       email: sebastian@gmail.com
-      name: Sebastián Gaviria
+      name: Sebastian Gaviria
       password: "$2b$12$de3CZRCVgS0NED6fFvYum.YnokYSKAwvaIB0PGpLwOhWFrJxNNeSW"  # demo123
 
 cookie:
