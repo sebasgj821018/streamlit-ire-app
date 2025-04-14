@@ -1,0 +1,15 @@
+credentials:
+  usernames:
+    sebastian:
+      email: sebastian@gmail.com
+      name: Sebastián Gaviria
+      password: "$2b$12$de3CZRCVgS0NED6fFvYum.YnokYSKAwvaIB0PGpLwOhWFrJxNNeSW"  # demo123
+
+cookie:
+  name: autenticacion_usuario
+  key: clave_secreta_de_autenticacion
+  expiry_days: 1
+
+preauthorized:
+  emails:
+    - sebastian@gmail.com
